@@ -17,4 +17,3 @@ I help SaaS teams ship faster with fewer regressions through security-first test
 - SauceDemo UI Tests: https://github.com/kiefertaylorland/saucedemo-ui-tests
 - Japanese Agent: https://github.com/kiefertaylorland/japanese-agent
 - Pokedex App: https://pokedex.tech
-- 
