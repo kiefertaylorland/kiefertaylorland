@@ -13,6 +13,8 @@ I help SaaS teams ship faster with fewer regressions through security-first test
 - 📄 Resume: https://github.com/kiefertaylorland/resume
 
 ## Featured projects
-- Japanese Agent: https://github.com/kiefertaylorland/japanese-agent
 - Restful Booker API Tests: https://github.com/kiefertaylorland/restful-booker-api-tests
 - SauceDemo UI Tests: https://github.com/kiefertaylorland/saucedemo-ui-tests
+- Japanese Agent: https://github.com/kiefertaylorland/japanese-agent
+- Pokedex App: https://pokedex.tech
+- 
