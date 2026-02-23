@@ -3,7 +3,7 @@
 I help SaaS teams ship faster with fewer regressions through security-first test strategy, Playwright automation, and CI-integrated quality systems.
 
 ## Work with me
-- 📅 Book a 15-min automation audit: https://calendly.com/kiefertaylorland/15-minute-meeting
+- 📅 Book a 15-min discovery call: https://calendly.com/kiefertaylorland/15-minute-meeting
 - ✉️ Email: kiefertaylorland@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/kieferland/
 
