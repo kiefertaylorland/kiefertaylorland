@@ -1,16 +1,20 @@
-## Hi there 👋
+# Kiefer Land
 
-<!--
-**kiefertaylorland/kiefertaylorland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help SaaS teams ship faster with fewer regressions through security-first test strategy, Playwright automation, and CI-integrated quality systems.
 
-Here are some ideas to get you started:
+## Work with me
+- 📅 Book a 15-min automation audit: https://calendly.com/kiefertaylorland/15-minute-meeting
+- ✉️ Email: kiefertaylorland@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/kieferland/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Start here
+- 🌐 Landing page: https://landing-page-nu-ruby.vercel.app/
+- 🧩 Portfolio: https://kiefertaylorland.github.io/portfolio/
+- 📄 Resume: https://github.com/kiefertaylorland/resume
+
+## Featured projects
+- Landing Page: https://github.com/kiefertaylorland/landing-page
+- Portfolio: https://github.com/kiefertaylorland/portfolio
+- Japanese Agent: https://github.com/kiefertaylorland/japanese-agent
+- Restful Booker API Tests: https://github.com/kiefertaylorland/restful-booker-api-tests
+- SauceDemo UI Tests: https://github.com/kiefertaylorland/saucedemo-ui-tests
