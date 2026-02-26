@@ -1,6 +1,6 @@
 # Kiefer Land
 
-I help SaaS teams ship faster with fewer regressions through security-first test strategy, Playwright automation, and CI-integrated quality systems.
+I help SaaS teams ship faster with fewer regressions through security-first test strategy, Playwright automation, and CI-integrated quality systems. I also build stuff for fun leveraging the latest AI dev tools.
 
 ## Work with me
 - 📅 Book a 15-min discovery call: https://calendly.com/kiefertaylorland/15-minute-meeting
@@ -8,7 +8,6 @@ I help SaaS teams ship faster with fewer regressions through security-first test
 - 💼 LinkedIn: https://www.linkedin.com/in/kieferland/
 
 ## Start here
-- 🌐 Landing page: https://landing-page-nu-ruby.vercel.app/
 - 🧩 Portfolio: https://kiefertaylorland.github.io/portfolio/
 - 📄 Resume: https://github.com/kiefertaylorland/resume
 
