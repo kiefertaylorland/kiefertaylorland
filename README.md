@@ -8,7 +8,6 @@ I also build stuff for fun leveraging the latest AI dev tools.
 
 - [LinkedIn](https://www.linkedin.com/in/kieferland/)
 - [Portfolio](https://kiefertaylorland.github.io/portfolio/)
-- [Resume](https://github.com/kiefertaylorland/resume)
 - [Email](kiefertaylorland@gmail.com)
 
 ## Featured projects
