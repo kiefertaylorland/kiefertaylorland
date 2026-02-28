@@ -6,14 +6,10 @@ I also build stuff for fun leveraging the latest AI dev tools.
 
 ## Work with me
 
-- [Book a 15-min discovery call](https://calendly.com/kiefertaylorland/15-minute-meeting)
-- [Email](kiefertaylorland@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/kieferland/)
-
-## Start here
-
 - [Portfolio](https://kiefertaylorland.github.io/portfolio/)
 - [Resume](https://github.com/kiefertaylorland/resume)
+- [Email](kiefertaylorland@gmail.com)
 
 ## Featured projects
 
