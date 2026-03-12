@@ -17,7 +17,7 @@
 
 ---
 
-<h2 align="left"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2 align="center"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
 name: Kiefer Land
@@ -76,7 +76,8 @@ hobbies:
   
 ---  
 
-<h2 align="left"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
@@ -94,4 +95,14 @@ hobbies:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiefertaylorland&show_icons=true&theme=tokyonight)
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiefertaylorland&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+</p>
