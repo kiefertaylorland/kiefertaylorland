@@ -108,7 +108,3 @@ hobbies:
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31arayh64d2czsfzlgfxelembsv4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
   </a>
 </p>
-
----
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
