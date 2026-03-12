@@ -93,3 +93,5 @@ hobbies:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiefertaylorland&show_icons=true&theme=tokyonight)
