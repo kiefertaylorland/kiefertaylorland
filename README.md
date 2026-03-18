@@ -7,18 +7,7 @@ I combine QA engineering with a cybersecurity foundation (M.S./B.S. in Cybersecu
 
 ## CORE COMPETENCIES
 
-- Manual Testing
-- Test Automation 
-- UI Testing 
-- API Testing 
-- Security Testing 
-- Playwright 
-- TypeScript 
-- Jenkins 
-- GitHub Actions 
-- Git/GitHub 
-- GitHub Copilot 
-- Claude Code 
+Manual Testing | Test Automation | UI Testing | API Testing | Security Testing | Playwright | TypeScript | Jenkins | GitHub Actions | Git/GitHub | GitHub Copilot | Claude Code 
 
 ## EXPERIENCE
 
