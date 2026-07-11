@@ -9,6 +9,6 @@ Background in software testing, security (7 certs + an M.S.), automation, and go
 **Currently:**
 - Running an agentic QA + verification practice at TCWGlobal (mutation testing, live-DB RLS suites, coverage gates on AI-generated code)
 - Building [meguru](https://github.com/kiefertaylorland/meguru) — an offline-first Japanese SRS in Go
-- Writing about the verification layer at [kieferland.dev](https://kieferland.dev)
+- Writing about "The Verification Layer" at [kieferland.dev](https://kieferland.dev)
 
 📫 Reach me here on GitHub.
