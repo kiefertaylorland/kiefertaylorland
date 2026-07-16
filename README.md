@@ -7,7 +7,6 @@ Background in software testing, security (7 certs + an M.S.), automation, and go
 **Currently:**
 - Orchestrating an agentic software testing, quality assurance, and verification practice at TCWGlobal
 - Writing about writing about my experiences and insights in software testing, quality assurance, and life at [kieferland.dev](https://kieferland.dev)
-- Building [payment-chaser](https://github.com/kiefertaylorland/payment-chaser) - A late-payment chasing tool for solo creative freelancers
 - Building [meguru](https://github.com/kiefertaylorland/meguru) — an offline-first Japanese SRS in Go
 
 📫 Reach me via email - [kiefertaylorland@gmail.com](mailto:kiefertaylorland@gmail.com)
