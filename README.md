@@ -1,6 +1,6 @@
 # Kiefer Land
 
-**AI Quality & Evals Engineer** @ TCWGlobal — building verification systems that let teams trust AI-built software.
+**Software Testing and Quality Assurance Engineer @ TCWGlobal | AI-Generated Code Verification & Test Automation**
 
 Background in software testing, security (7 certs + an M.S.), automation, and governance/risk/compliance — that's the lens I bring to shipping and evaluating AI-native products responsibly.
 
