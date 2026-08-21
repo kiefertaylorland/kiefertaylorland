@@ -1,6 +1,6 @@
 # Kiefer Land
 
-**Software Testing and Quality Assurance Engineer @ TCWGlobal | AI-Generated Code Verification & Test Automation**
+**Software Testing and Quality Assurance Engineer for regulated human resources, staffing, and payrolling technology | AI Verification & Test Automation**
 
 SQA Engineer and security subject-matter expert building test strategy, automation, and verification systems to improve release confidence, reliability, and customer trust.
 
