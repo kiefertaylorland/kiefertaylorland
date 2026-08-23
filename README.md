@@ -4,6 +4,6 @@
 
 SQA Engineer and security subject-matter expert building test strategy, automation, and verification systems to improve release confidence, reliability, and customer trust.
 
-Writing about my experiences and insights in software testing, quality assurance, and life at [kieferland.dev](https://kieferland.dev)
+Writing about my experiences and insights in software testing, quality assurance, artificial intelligence, application security, and life at [kieferland.dev](https://kieferland.dev)
 
 📫 Reach me via email - [kiefertaylorland@gmail.com](mailto:kiefertaylorland@gmail.com)
