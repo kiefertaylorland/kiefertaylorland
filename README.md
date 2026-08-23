@@ -1,6 +1,6 @@
 # Kiefer Land
 
-**SAI Assurance Engineer for regulated human resources, staffing, and payrolling technology**
+**AI Assurance Engineer for regulated human resources, staffing, and payrolling technology**
 
 AI Assurance Engineer and security subject-matter expert building test strategy, automation, and verification systems to improve release confidence, reliability, and customer trust.
 
